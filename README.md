@@ -1,1 +1,3 @@
 # guide
+
+Una guía de que no hacer cuando vas a...
